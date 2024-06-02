@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import BibleVerse from '../components/BibleVerse';
-
+import React from 'react';
 export default function Home() {
   return (
     <div>
